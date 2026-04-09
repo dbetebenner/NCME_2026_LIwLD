@@ -2,7 +2,8 @@
 
 ### A Copula-Based Unification of TAMP and SGP
 
-**Damian W. Betebenner** (National Center for the Improvement of Educational Assessment) &
+**Damian W. Betebenner** (National Center for the Improvement of Educational Assessment)
+
 **Henry I. Braun** (Lynch School of Education, Boston College)
 
 Presented at the National Council on Measurement in Education (NCME) Annual Meeting, April 2026, Los Angeles, CA.
