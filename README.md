@@ -1,5 +1,7 @@
 # Longitudinal Inference Without Longitudinal Data
 
+Part of Damian Betebenner's talks: <https://dbetebenner.github.io/talks/>
+
 ### A Copula-Based Unification of TAMP and SGP
 
 **Damian W. Betebenner** (National Center for the Improvement of Educational Assessment)
@@ -17,8 +19,14 @@ The slides are hosted via GitHub Pages at:
 
     docs/
       index.html   # Self-contained reveal.js presentation (rendered via Quarto)
+      assets/
+        In_Order_We_Trust.pdf   # The paper PDF (the slide QR opens it in GitHub's file viewer)
+      docs/assets/
+        In_Order_We_Trust.pdf   # Copy for an older link (see below)
 
 The HTML file embeds all assets (figures, fonts, CSS, JavaScript) so no additional files are required to view the presentation.
+
+The NCIEA Colloquium and Board decks linked to `https://dbetebenner.github.io/NCME_2026_LIwLD/docs/assets/In_Order_We_Trust.pdf`. GitHub Pages serves `docs/` as the site root, so that URL needs the copy at `docs/docs/assets/`. Keep it: copies of those decks are already in circulation.
 
 ## Abstract
 
